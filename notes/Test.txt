@@ -1,0 +1,26 @@
+Summary:
+
+    ByteInputOutputExpCodingLoop encodeParity     117.6 MB/s
+    ByteInputOutputExpCodingLoop isParityCorrect  216.0 MB/s
+    ByteInputOutputTableCodingLoop encodeParity   131.7 MB/s
+    ByteInputOutputTableCodingLoop isParityCorrect 213.5 MB/s
+    ByteOutputInputExpCodingLoop encodeParity     175.7 MB/s
+    ByteOutputInputExpCodingLoop isParityCorrect  212.0 MB/s
+    ByteOutputInputTableCodingLoop encodeParity   210.6 MB/s
+    ByteOutputInputTableCodingLoop isParityCorrect 211.7 MB/s
+    InputByteOutputExpCodingLoop encodeParity     119.2 MB/s
+    InputByteOutputExpCodingLoop isParityCorrect  211.9 MB/s
+    InputByteOutputTableCodingLoop encodeParity   162.3 MB/s
+    InputByteOutputTableCodingLoop isParityCorrect 210.1 MB/s
+    InputOutputByteExpCodingLoop encodeParity     259.8 MB/s
+    InputOutputByteExpCodingLoop isParityCorrect  213.5 MB/s
+    InputOutputByteTableCodingLoop encodeParity   639.2 MB/s
+    InputOutputByteTableCodingLoop isParityCorrect 585.6 MB/s
+    OutputByteInputExpCodingLoop encodeParity     186.4 MB/s
+    OutputByteInputExpCodingLoop isParityCorrect  213.0 MB/s
+    OutputByteInputTableCodingLoop encodeParity   253.4 MB/s
+    OutputByteInputTableCodingLoop isParityCorrect 213.7 MB/s
+    OutputInputByteExpCodingLoop encodeParity     276.9 MB/s
+    OutputInputByteExpCodingLoop isParityCorrect  213.4 MB/s
+    OutputInputByteTableCodingLoop encodeParity   642.9 MB/s
+    OutputInputByteTableCodingLoop isParityCorrect 589.0 MB/s
